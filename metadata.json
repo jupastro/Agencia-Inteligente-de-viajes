@@ -1,0 +1,9 @@
+{
+  "name": "WanderGen - AI Travel Companion",
+  "description": "A comprehensive travel planning application that uses Gemini AI to generate personalized itineraries, audio guides, and contextual travel tips.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
